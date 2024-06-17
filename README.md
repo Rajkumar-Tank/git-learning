@@ -1,4 +1,4 @@
-#silent is golden
+
 
 
 There are 3 ways to save a file and quit the vi/vim editor which are mentioned below:
